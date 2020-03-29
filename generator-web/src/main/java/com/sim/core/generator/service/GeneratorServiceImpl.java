@@ -1,10 +1,11 @@
-package com.softdev.system.generator.service;
+package com.sim.core.generator.service;
 
-import com.softdev.system.generator.util.FreemarkerTool;
 import freemarker.template.TemplateException;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.sim.core.generator.util.FreemarkerTool;
 
 import java.io.IOException;
 import java.util.HashMap;

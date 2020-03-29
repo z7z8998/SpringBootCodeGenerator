@@ -1,8 +1,7 @@
-# SpringBootCodeGenerator
+# CodeGenerator
 ![image](https://img.shields.io/badge/SpringBoot2-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen.svg)
 ![image](https://img.shields.io/badge/Freemarker-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen.svg)
 ![image](https://img.shields.io/badge/CodeGenerator-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen.svg)
-[![Build Status](https://travis-ci.org/moshowgame/SpringBootCodeGenerator.svg?branch=master)](https://travis-ci.org/moshowgame/SpringBootCodeGenerator)
 
 
 # Description
@@ -17,8 +16,7 @@
 |访问路径|http://localhost:1234/generator|
 |-|-|
 |在线地址|http://java.bejson.com/generator|
-|CSDN博客|http://zhengkai.blog.csdn.net|
-|最新Jar包|https://github.com/moshowgame/SpringBootCodeGenerator/releases|
+|最新Jar包|https://github.com/z7z8998/CodeGenerator/releases|
 
 感谢bejson三叔将他部署在[BEJSON](www.bejson.com)上，目前是besjon专供工具(线上版本不一定是最新的，会有延迟，请谅解，谢谢).
 

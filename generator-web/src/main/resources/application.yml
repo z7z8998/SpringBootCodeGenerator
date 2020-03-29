@@ -28,7 +28,7 @@ spring:
         force: true
         charset: UTF-8
     application:
-        name: spring-boot-code-generator
+        name: code-generator
     freemarker:
         request-context-attribute: request
         suffix: .ftl

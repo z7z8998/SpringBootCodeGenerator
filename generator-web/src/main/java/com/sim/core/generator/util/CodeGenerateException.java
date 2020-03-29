@@ -1,4 +1,4 @@
-package com.softdev.system.generator.util;
+package com.sim.core.generator.util;
 
 /**
  * @author xuxueli 2018-05-02 21:10:28

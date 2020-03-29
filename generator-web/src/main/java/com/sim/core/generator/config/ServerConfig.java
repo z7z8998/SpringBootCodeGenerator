@@ -1,4 +1,4 @@
-package com.softdev.system.generator.config;
+package com.sim.core.generator.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.web.context.WebServerInitializedEvent;
@@ -24,7 +24,7 @@ public class ServerConfig implements ApplicationListener<WebServerInitializedEve
     public void onApplicationEvent(WebServerInitializedEvent event) {
         this.serverPort = event.getWebServer().getPort();
         //log.info("Get WebServer port {}", serverPort);
-        log.info("项目启动启动成功！访问地址: http://localhost:{}/generator", serverPort);
+        log.info("项目启动成功！访问地址: http://localhost:{}/generator", serverPort);
     }
 
 }

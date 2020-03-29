@@ -1,4 +1,4 @@
-package com.softdev.system.generator.entity;
+package com.sim.core.generator.entity;
 
 import lombok.Data;
 

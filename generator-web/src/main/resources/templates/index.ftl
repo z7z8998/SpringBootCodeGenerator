@@ -178,7 +178,7 @@
             var gitVersion ;
             $.ajax({
                 type: 'GET',
-                url: "https://raw.githubusercontent.com/moshowgame/SpringBootCodeGenerator/master/generator-web/src/main/resources/static/version.json",
+                url: "https://raw.githubusercontent.com/z7z8998/CodeGenerator/master/generator-web/src/main/resources/static/version.json",
                 dataType: "json",
                 success: function (data) {
                     gitVersion = data.version;
@@ -217,9 +217,9 @@
     <div class="container">
         <h2>Spring Boot Code Generator!</h2>
         <p class="lead">
-            √基于SpringBoot2+Freemarker的<a class="lead" href="https://github.com/moshowgame/SpringBootCodeGenerator">代码生成器</a>，√以释放双手为目的，√支持mysql/oracle/pgsql三大数据库，<br>
+            √基于SpringBoot2+Freemarker的<a class="lead" href="https://github.com/z7z8998/CodeGenerator">代码生成器</a>，√以释放双手为目的，√支持mysql/oracle/pgsql三大数据库，<br>
             √用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL相关代码。<br>
-            如果发现有SQL语句不能识别，请<a href="https://github.com/moshowgame/SpringBootCodeGenerator/issues">留言</a>，同时欢迎大家提<a href="https://github.com/moshowgame/SpringBootCodeGenerator/pulls">PR</a>和<a href="#" id="donate1">赞赏</a>，谢谢！<a id="version" href="#">查看版本</a>
+            如果发现有SQL语句不能识别，请<a href="https://github.com/z7z8998/CodeGenerator/issues">留言</a>，同时欢迎大家提<a href="https://github.com/z7z8998/CodeGenerator/pulls">PR</a>和<a href="#" id="donate1">赞赏</a>，谢谢！<a id="version" href="#">查看版本</a>
         </p>
         <div id="donate" class="container" show="no"></div>
         <hr>

@@ -1,4 +1,4 @@
-package com.softdev.system.generator.service;
+package com.sim.core.generator.service;
 
 import freemarker.template.TemplateException;
 import org.springframework.stereotype.Service;

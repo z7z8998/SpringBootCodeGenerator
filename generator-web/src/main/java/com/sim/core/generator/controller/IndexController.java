@@ -1,12 +1,13 @@
-package com.softdev.system.generator.controller;
+package com.sim.core.generator.controller;
 
 import com.alibaba.fastjson.JSON;
-import com.softdev.system.generator.entity.ClassInfo;
-import com.softdev.system.generator.entity.ParamInfo;
-import com.softdev.system.generator.entity.ReturnT;
-import com.softdev.system.generator.service.GeneratorService;
-import com.softdev.system.generator.util.CodeGenerateException;
-import com.softdev.system.generator.util.TableParseUtil;
+import com.sim.core.generator.entity.ClassInfo;
+import com.sim.core.generator.entity.ParamInfo;
+import com.sim.core.generator.entity.ReturnT;
+import com.sim.core.generator.service.GeneratorService;
+import com.sim.core.generator.util.CodeGenerateException;
+import com.sim.core.generator.util.TableParseUtil;
+
 import freemarker.template.TemplateException;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;

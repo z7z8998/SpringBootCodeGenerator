@@ -1,4 +1,4 @@
-package com.softdev.system.generator.util;
+package com.sim.core.generator.util;
 
 /**
  * string tool

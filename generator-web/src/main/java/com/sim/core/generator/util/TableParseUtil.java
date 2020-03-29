@@ -1,12 +1,12 @@
-package com.softdev.system.generator.util;
+package com.sim.core.generator.util;
 
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.softdev.system.generator.entity.ClassInfo;
-import com.softdev.system.generator.entity.FieldInfo;
-import com.softdev.system.generator.entity.ParamInfo;
+import com.sim.core.generator.entity.ClassInfo;
+import com.sim.core.generator.entity.FieldInfo;
+import com.sim.core.generator.entity.ParamInfo;
 
 import java.io.IOException;
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.softdev.system.generator.config;
+package com.sim.core.generator.config;
 
 import com.alibaba.fastjson.support.config.FastJsonConfig;
 import com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter;
